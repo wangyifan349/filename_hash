@@ -16,7 +16,7 @@ conn.commit()
 
 folder_path = './1'  # 填写你的文件路径
 
-#由于我是在Linux下开发的，windows的路径问题我没有考虑，建议修改正确的路径，Linux直接用就可以了。
+#由于我是在Linux下开发的，windows的路径问题我没有考虑，windows可能修改正确的路径，Linux直接用就可以了。
 #linux_path = windows_path.replace('\\', '/')
 #windows_path = linux_path.replace('/', '\\')
 
